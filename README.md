@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I am all about types.
 <!--
 **garronej/garronej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
