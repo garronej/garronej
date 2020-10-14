@@ -1,6 +1,5 @@
-I am all about types.
-<!--
-**garronej/garronej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![bzg's github stats](https://github-readme-stats.vercel.app/api?username=garronej)](https://github.com/bzg/github-readme-stats)
+<!--**garronej/garronej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
