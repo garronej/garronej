@@ -1,5 +1,8 @@
-[![bzg's github stats](https://github-readme-stats.vercel.app/api?username=garronej)](https://github.com/bzg/github-readme-stats)
+[![bzg's github stats](https://github-readme-stats.vercel.app/api?username=garronej)](https://github.com/bzg/github-readme-stats)  
 <!--**garronej/garronej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InseeFrLab&repo=onyxia-ui)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garronej&repo=powerhooks)](https://github.com/anuraghazra/github-readme-stats)  
 
 Here are some ideas to get you started:
 
