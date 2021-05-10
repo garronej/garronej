@@ -13,11 +13,11 @@
     <a href="https://www.tsafe.dev">
         <img src="https://user-images.githubusercontent.com/6702424/117706378-81431000-b1cd-11eb-8313-965a2cb76c72.png"> 
     </a>
-    <a href="https://githib.com/garronej/tss-react">
-        <img src="https://user-images.githubusercontent.com/6702424/117706380-81431000-b1cd-11eb-96a7-d0f4ef48678a.png"> 
-    </a>
-    <a href="https://githib.com/inseefrlab/keycloakify">
+    <a href="https://github.com/inseefrlab/keycloakify">
         <img src="https://user-images.githubusercontent.com/6702424/117706372-8011e300-b1cd-11eb-9c20-5cb1d791aa65.png"> 
+    </a>
+    <a href="https://github.com/garronej/tss-react">
+        <img src="https://user-images.githubusercontent.com/6702424/117706380-81431000-b1cd-11eb-96a7-d0f4ef48678a.png"> 
     </a>
 </p>
 
