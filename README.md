@@ -4,14 +4,14 @@
 
 <p align="center">
     <a href="https://evt.land">
-        <img src="https://user-images.githubusercontent.com/6702424/117705261-23fa8f00-b1cc-11eb-8b60-d963c0d006fc.png">
+        <img src="https://user-images.githubusercontent.com/6702424/117706369-7f794c80-b1cd-11eb-80bd-cada11c0e46b.png">
     </a>
-    <a href="https://www.semasim.com">
-        <img src="https://user-images.githubusercontent.com/6702424/117704805-928b1d00-b1cb-11eb-8009-e8f85659eb6e.png"> 
+    <a href="https://denoify.land">
+        <img src="https://user-images.githubusercontent.com/6702424/117706365-7ee0b600-b1cd-11eb-9beb-e59c2f314dbf.png"> 
     </a>
     <br>
-    <a href="https://thegraph.com">
-        <img src="https://user-images.githubusercontent.com/6702424/117704806-928b1d00-b1cb-11eb-8130-7fa75cb6f82a.png"> 
+    <a href="https://www.tsafe.dev">
+        <img src="https://user-images.githubusercontent.com/6702424/117706378-81431000-b1cd-11eb-8313-965a2cb76c72.png"> 
     </a>
 </p>
 
