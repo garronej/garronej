@@ -19,7 +19,8 @@
     <a href="https://github.com/garronej/tss-react">
         <img src="https://user-images.githubusercontent.com/6702424/117706380-81431000-b1cd-11eb-96a7-d0f4ef48678a.png"> 
     </a>
-</p>
+</p>  
+
 ![](https://komarev.com/ghpvc/?username=garronej)
 
 ## Cooking projects 🍳
