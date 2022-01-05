@@ -23,8 +23,7 @@
 
 ![](https://komarev.com/ghpvc/?username=garronej)
 
-https://user-images.githubusercontent.com/6702424/148143838-27e600f3-c9e4-49f8-bc42-b4f809fcd1b3.mp4
-
+https://user-images.githubusercontent.com/6702424/148144085-f5f4b825-ceec-42b0-8316-dc3a183d85ee.mp4
 
 ## Cooking projects 🍳
 
