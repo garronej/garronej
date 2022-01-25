@@ -17,13 +17,12 @@
         <img src="https://user-images.githubusercontent.com/6702424/117706372-8011e300-b1cd-11eb-9c20-5cb1d791aa65.png"> 
     </a>
     <a href="https://www.tss-react.dev">
-        <img src="https://user-images.githubusercontent.com/6702424/117706380-81431000-b1cd-11eb-96a7-d0f4ef48678a.png"> 
+        <img src="https://user-images.githubusercontent.com/6702424/151067556-8cbb92b6-d847-4361-bdc4-91e69648e23f.png"> 
     </a>
     <a href="https://github.com/garronej/redux-clean-architecture">
         <img src="https://user-images.githubusercontent.com/6702424/151066834-1e23334f-a129-45ba-bbc0-d8cbb96631b4.png"> 
     </a>
 </p>  
-
 
 ![](https://komarev.com/ghpvc/?username=garronej)
 
