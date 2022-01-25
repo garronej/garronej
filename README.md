@@ -17,7 +17,7 @@
         <img src="https://user-images.githubusercontent.com/6702424/117706372-8011e300-b1cd-11eb-9c20-5cb1d791aa65.png"> 
     </a>
     <a href="https://www.tss-react.dev">
-        <img src="https://user-images.githubusercontent.com/6702424/151068491-99562951-d36a-4344-a756-a0f83c23f805.png"> 
+        <img src="https://user-images.githubusercontent.com/6702424/151068749-24f1ba52-cc39-48cb-ba79-e31f2295491a.png"> 
     </a>
     <a href="https://github.com/garronej/redux-clean-architecture">
         <img src="https://user-images.githubusercontent.com/6702424/151066834-1e23334f-a129-45ba-bbc0-d8cbb96631b4.png"> 
