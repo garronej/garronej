@@ -16,10 +16,14 @@
     <a href="https://github.com/inseefrlab/keycloakify">
         <img src="https://user-images.githubusercontent.com/6702424/117706372-8011e300-b1cd-11eb-9c20-5cb1d791aa65.png"> 
     </a>
-    <a href="https://github.com/garronej/tss-react">
+    <a href="https://www.tss-react.dev">
         <img src="https://user-images.githubusercontent.com/6702424/117706380-81431000-b1cd-11eb-96a7-d0f4ef48678a.png"> 
     </a>
+    <a href="https://github.com/garronej/redux-clean-architecture">
+        <img src="https://user-images.githubusercontent.com/6702424/151066834-1e23334f-a129-45ba-bbc0-d8cbb96631b4.png"> 
+    </a>
 </p>  
+
 
 ![](https://komarev.com/ghpvc/?username=garronej)
 
