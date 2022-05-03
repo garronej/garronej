@@ -1,6 +1,5 @@
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt-get install -y nodejs
-sudo apt-get install -y python2 #Only for scss (will be removed soon)
 sudo npm install -g yarn
 code-server --install-extension vscodevim.vim
 code-server --install-extension vscode-icons-team.vscode-icons
