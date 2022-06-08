@@ -28,14 +28,11 @@
 
 https://user-images.githubusercontent.com/6702424/151066182-72722d29-6202-4133-b0cb-28c5f8682285.mp4
 
-## Cooking projects 🍳
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InseeFrLab&repo=onyxia-web&show_owner=true&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/InseeFrLab/onyxia-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garronej&repo=powerhooks&&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/garronej/powerhooks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InseeFrLab&repo=onyxia-ui&show_owner=true&&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/InseeFrLab/onyxia-ui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garronej&repo=i18nifty&show_owner=false&&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/garronej/i18nifty)
-
-## Because I can only pin 6 repo below.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etalab&repo=i18nifty&show_owner=false&&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/etalab/i18nifty)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etalab&repo=cra-envs&show_owner=true&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/etalab/cra-envs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garronej&repo=redux-clean-archi-toolkit&show_owner=false&title_color=58a6ff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/garronej/redux-clean-archi-toolkit)
