@@ -13,11 +13,11 @@
     <a href="https://evt.land">
         <img src="https://user-images.githubusercontent.com/6702424/117706369-7f794c80-b1cd-11eb-80bd-cada11c0e46b.png">
     </a>
-    <a href="https://denoify.land">
+    <a href="https://garronej.github.io/denoify/">
         <img src="https://user-images.githubusercontent.com/6702424/117706365-7ee0b600-b1cd-11eb-9beb-e59c2f314dbf.png"> 
     </a>
     <br>
-    <a href="https://www.tsafe.dev">
+    <a href="https://github.com/garronej/tsafe">
         <img src="https://user-images.githubusercontent.com/6702424/117706378-81431000-b1cd-11eb-8313-965a2cb76c72.png"> 
     </a>
     <a href="https://github.com/inseefrlab/keycloakify">
